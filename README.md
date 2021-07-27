@@ -19,6 +19,6 @@ get returns the records in the database.
 delete returns an empty object.  
 put reutrns the modified record.  
 post reutrns the added record.  
-
+## pul Request Link: [https://github.com/awwadsaeed/serverless-api/pull/1](https://github.com/awwadsaeed/serverless-api/pull/1)  
 ## UML:  
 ![whiteboard](./lab17.JPG)
